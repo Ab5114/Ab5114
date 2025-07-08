@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech (CSE) @ MANIT Bhopal (2022–2026)** &mdash; CGPA: 8.3
+- 🎓 **B.Tech (CSE) @ MANIT Bhopal (2022–2026)** &mdash;
 - 🌱 Lover of algorithms: solved <b>1200+ problems</b> across GeeksforGeeks, Codeforces (<b>Pupil</b>), and LeetCode (<b>Knight</b>).
 - 💡 Believer in building tech with impact—AI, web, and everything in between!
 - 🏆 <i>Global Rank 334</i> in CodeChef Starters 172 (<b>28K+</b> participants)<br>
